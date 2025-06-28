@@ -51,5 +51,8 @@ git commit -m 'commit inicial'
 Aqui enviamos os arquivos do nosso computador para o link através do comando remote.
 git remote add origin https://github.com/brunathaisjc/Api-com-Python.git
 
+4. git branch -M main
 
+5. git push -u origin main
 
+}
