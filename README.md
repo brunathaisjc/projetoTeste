@@ -8,7 +8,7 @@ No terminal do Git Bash:
 git config --global user.name'brunathaisjc'
 
 2.Configurar o email:
-git config --global user.email 'btgnasc@gmail.com'
+git config --global user.email 'nome@tenant.com'
 
 3.Clonar repositório do Github: (Para colar no gitbash use o shift + insert)
 git clone https://github.com/brunathaisjc/Api-com-Python.git
